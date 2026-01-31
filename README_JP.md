@@ -1,5 +1,11 @@
 # AutoECPointer
 
+<div align="center">
+
+[English](./README.md) | [Japanese / 日本語](./README_JP.md)
+
+</div>
+
 **AutoECPointer** は **Auto Entry Close Pointer** の略です。
 
 AutoECPointer は、トレード履歴をチャート上に直接可視化するために設計された MetaTrader 4 (MT4) 用のカスタムインジケーターです。エントリーと決済（イグジット）の矢印を自動的に描画し、勝ちトレードと負けトレードを区別することで、トレーダーが過去のパフォーマンスを視覚的に振り返るのに役立ちます。

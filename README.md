@@ -1,5 +1,11 @@
 # AutoECPointer
 
+<div align="center">
+
+[English](./README.md) | [Japanese / 日本語](./README_JP.md)
+
+</div>
+
 **AutoECPointer** stands for **Auto Entry Close Pointer**.
 
 AutoECPointer is a custom indicator for MetaTrader 4 (MT4) designed to visualize your trade history directly on the chart. It automatically draws arrows for trade entries and exits, distinguishing between profitable and losing trades, helping traders review their past performance visually.
